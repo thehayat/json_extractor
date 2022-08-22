@@ -72,8 +72,7 @@ Distributed under the MIT License.
 
 ## Contact
 
-- [Project Link:](https://github.com/thehayat/json_extractor)
 - [StackOverflow](https://stackoverflow.com/users/8868699/hayat)
 - [LinkedIn](https://www.linkedin.com/in/sarwarhayat/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- [Project Link](https://github.com/thehayat/json_extractor)
+<p align="right">(<a href="https://github.com/thehayat/json_extractor#objective">back to top</a>)</p>
