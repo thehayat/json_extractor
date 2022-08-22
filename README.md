@@ -43,7 +43,7 @@ python test_parseJson.py
 
 The default output location is: `./schema`
 
-__Output data format__
+__Expected output data format__
 
 ```json
 {
