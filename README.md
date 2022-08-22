@@ -25,7 +25,9 @@ This is a project to read the json data and extract the schema from it.
 
 ### Prerequisites
 
-`python 3.5` and above
+`python 3.5` and above.
+
+_Note: There is no external library used._
 
 ## Usage
 
