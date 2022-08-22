@@ -7,9 +7,9 @@ OUTPUT_DIR = "./schema"
 
 LOG_FILEPATH = "Logs/json_parse.log"
 if not os.path.exists(LOG_FILEPATH):
-    os.makedirs(os.path.basename(LOG_FILEPATH), exist_ok=True)
+    os.makedirs(os.path.dirname(LOG_FILEPATH), exist_ok=True)
 if not os.path.exists(OUTPUT_DIR):
-    os.makedirs(os.path.basename(OUTPUT_DIR), exist_ok=True)
+    os.makedirs(os.path.dirname(OUTPUT_DIR), exist_ok=True)
 logging.basicConfig(filename=LOG_FILEPATH, level=logging.INFO,
                     format='%(asctime)s - %(message)s', datefmt='%d-%b-%y %H:%M:%S')
 
