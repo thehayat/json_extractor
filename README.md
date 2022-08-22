@@ -72,7 +72,7 @@ Distributed under the MIT License.
 
 ## Contact
 
-- Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+- [Project Link:](https://github.com/thehayat/json_extractor)
 - [StackOverflow](https://stackoverflow.com/users/8868699/hayat)
 - [LinkedIn](https://www.linkedin.com/in/sarwarhayat/)
 
