@@ -1,5 +1,7 @@
 import os
 import logging
+import traceback
+
 from parseJson import ParseJson, write_json
 
 INPUT_DIR = "./data"
@@ -24,6 +26,7 @@ def main(files):
         try:
             input_data = jsonData['message']
         except KeyError:
+            logging.exception(f"{traceback.format_exc()}")
             raise Exception("Unstructured Json: No 'message' key found.")
 
         schema = parsingJson.schemify_json(json_data=input_data)
